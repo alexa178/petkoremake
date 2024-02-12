@@ -1,0 +1,21 @@
+komp1 - https://www.desktop.bg/grigs-grigs_powered_by_asus-grigs_ranger_amd
+komp2 - https://desktop.bg/grigs-powered_by_cougar-grigs_twister_white_amd 
+komp3 - https://www.desktop.bg/grigs-powered_by_cougar-grigs_dust_2_intel_global_elite_edition
+komp4 - https://desktop.bg/computers-asus-ExpertCenter_D500-asus_expertcenter_d500sd712700040x
+komp5 - https://desktop.bg/computers-lenovo-Legion_T5_Gen_8-lenovo_legion_t5_gen_8_90UU0044RM
+komp6 - https://desktop.bg/computers-acer-Veriton_S2680G-acer_veriton_s2680g_DTVV2EX00A
+komp7 - https://www.desktop.bg/grigs-grigs_absolute-grigs_arena_amd
+komp8 - https://desktop.bg/computers-desktop-Office-office_vega_t6_amd
+komp9 - https://desktop.bg/computers-desktop-Office-office_vega_mg_m2_amd
+komp10 - https://desktop.bg/computers-desktop-Gaming_Essentials-gaming_essentials_flow_mini_intel
+
+komp11 - https://desktop.bg/archive/computers-desktop-Budget-budget_master_SSD
+komp12 - https://desktop.bg/archive/computers-desktop-Budget_Home-home_venom_mx
+komp13 - https://desktop.bg/archive/computers-desktop-Work_Home-workbasic_amd_office
+komp14 - https://desktop.bg/archive/computers-desktop-MSI_Gaming-MSI_Gaming_Newcomer
+komp15 - https://desktop.bg/archive/computers-desktop-Budget_Home-home_work_and_play_bolt_intel
+komp16 - https://desktop.bg/archive/computers-desktop-Sentinel_301-sentinel_301_level_1_white
+komp17 - https://desktop.bg/archive/computers-desktop-Maximus_2-maximus_2_champion
+komp18 - https://desktop.bg/computers-acer-Predator_Orion_5000_PO5_650-acer_predator_orion_5000_po5650_DGE3AEX004
+komp19 - https://desktop.bg/computers-asus-ROG_Strix_G35CA-asus_rog_strix_g35cawb7830w
+komp20 - https://desktop.bg/grigs-grigs_vip-grigs_aethelthrig_evo_intel_gen12

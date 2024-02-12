@@ -1,0 +1,114 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-image: url(photos/background.avif); 
+    background-color: black;
+    height: auto;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.logo {
+    width: 180px;
+}
+#search {
+    margin-left: 30rem;
+    margin-right: 35rem;
+    display: flex;
+    padding: 20px;
+    background-color: darkblue;
+}
+
+#searchInput {
+    border: none;
+    border-radius: 30px;
+    display: inherit;
+    width: 100%;
+    padding: 1em 10em 1em 1em;
+}
+
+header {
+    justify-content: center;
+    width: 100%;
+    position: sticky;
+    top: 0;
+    z-index: 999;
+    background-color: darkblue;
+    height: 80px;
+    display: flex;
+}
+.MainContainer {
+    /*display: inline-block;*/
+    background-color: rgb(255, 255, 255);
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 85%;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.profile {
+    border-radius: 50px; 
+    height: 45px; 
+    width: 45px; 
+    margin-top: 15px;
+}
+.Button-Container {
+    display: flex;
+    font-size: 20px;
+    float: left;
+    width: 210px;
+    height: 2250px;
+    flex-direction: column;
+    background-image: linear-gradient(darkblue, purple);
+    margin-top: -25px;
+
+}
+.name {
+    width: 290px;
+    padding: 10px;
+    text-align: center;
+    background-color: white;
+    margin: 10px 0px 10px 10px;
+    display: block;
+    border: 1px solid transparent;
+}
+.name:hover {
+    border-radius: 20px;
+    border: 1px solid #777;
+}
+.Navigation-Buttons {
+    transition: 0.3s;
+    background-color: black;
+    color: white;
+    font-weight: 500;
+    font-size: 18px;
+    border: 1px solid transparent;
+    border-radius: 20px;
+    width: 180px;
+    height: 40px;
+    margin: 40px auto 0px auto;
+}
+.Navigation-Buttons:hover {
+    transition: 0.3s;
+    border: 1px solid red;
+    color:red;
+}
+.On-Page-Button {
+    transition: 0.3s;
+    background-color: blue;
+    color: white;
+    font-weight: 500;
+    font-size: 18px;
+    border: 2px solid white;
+    border-radius: 20px;
+    width: 180px;
+    height: 40px;
+    margin: 40px auto 0px auto;
+}
+.hidden {
+    display: none;
+}

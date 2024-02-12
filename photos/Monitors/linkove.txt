@@ -1,0 +1,9 @@
+monitor1 - https://desktop.bg/displays-asus-asus_va249he
+monitor2 - https://desktop.bg/displays-acer-acer_r242yhyi
+monitor3 - https://desktop.bg/displays-lenovo-lenovo_d2730
+monitor4 - https://desktop.bg/displays-lenovo-lenovo_l27i40
+monitor5 - https://desktop.bg/displays-aoc-aoc_24g2saebk
+monitor6 - https://desktop.bg/displays-aoc-aoc_24v5cwbk
+monitor7 - https://desktop.bg/displays-samsung-samsung_odyssey_g3_24g30a
+monitor8 - https://desktop.bg/displays-samsung-samsung_odyssey_oled_g8_g85sb_LS34BG850SUXEN
+monitor9 - https://desktop.bg/displays-hyperx-hyperx_armada_25_fhd
